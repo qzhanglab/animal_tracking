@@ -10,9 +10,9 @@ purpose: track mice using vcs
 
 ---
 
-=SPREADSHEET FORMAT
+=MASTER_ANIMAL_LIST.CSV FORMAT
 
-<b>CAGE/<b>ID</b>/<b>SEX</b>
+<b>CAGE</b>/<b>ID</b>/<b>SEX</b>
 
 <b>EGLN2</b>/<b>MMTV-PYVT</b>/<b>C3TAG</b>: GENOTYPES
 
