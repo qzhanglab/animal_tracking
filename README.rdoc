@@ -18,7 +18,7 @@ purpose: track mice using vcs
 
 <b>DOB</b>
 
-<b>AGE</b>: DAYS
+<b>AGE</b>: WEEKS
 
 <b>FATHER</b>/<b>MOTHER</b>
 
