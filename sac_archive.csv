@@ -41,6 +41,8 @@ CAGE,ID,PROJECT,SEX,EGLN2,MMTV-PYVT,C3TAG,DOB,FATHER,MOTHER,SAC_DATE,AGE,COMMENT
 2431078,182,PyVT,F,+/+,-/-,-/-,6/5/16,003.1,539,7/6/16,4,genotype unecessary to project,,,,,,,,,,,,,
 2431042,544,PyVT,F,+/+,-/-,-/-,9/1/15,273,517;518,7/6/16,44,genotype unecessary to project,,,,,,,,,,,,,
 2431098,538,PyVT,F,+/+,-/-,-/-,9/1/15,273,517;518,7/6/16,44,genotype unecessary to project,,,,,,,,,,,,,
+2431086,179,PyVT,M,+/-,,,5/20/16,447,544,7/10/16,7,found dead; removed by DLAM,,,,,,,,,,,,,
+2431090,162,PyVT,F,+/-,o/-,,4/22/16,101,159,7/13/16,12,bilateral tumors >4cm^2 on neck chest and abdomen,,,,,,,,,,,,,
 2431037,152,PyVT,F,(+/+),(o/-),,1/6/16,515,514,,,did not genotype; sacd before AGR arrival,,,,,,,,,,,,,
 2431023,103,PyVT,M,(+/-),(o/-),,11/22/15,273,517;518,,,did not genotype; sacd before AGR arrival,,,,,,,,,,,,,
 2358717,,B6*E2,M,,,,7/29/15,,,,,did not genotype; sacd before AGR arrival,,,,,,,,,,,,,
